@@ -19,9 +19,9 @@ NovelAIをはじめとする画像生成AIで作られた大量の画像を選�
 
 本ソフトはVisual StudioでC#を用いて作成したフォームアプリです。ですので、**動作には.NET 6.0が必要です**
 
-また作成者が初心者なので、意図しない動作などが起こるかもしれません。
+また作成者が初心者なので、意図しない動作などが起こるかもしれません。ご使用は自己責任でお願いします。
 
-そういったバグの報告やコードの改善案など、お気づきのことがございましたらtwitter(@2iStudio048)までお知らせいただけますと幸いです。
+バグの報告やコードの改善案など、お気づきのことがございましたらtwitter(@2iStudio048)までお知らせいただけますと幸いです。
 
 ---
 
@@ -45,6 +45,6 @@ Please read "HowToUse.pdf" to learn about how to use this.
 *CAUTION*
 This software is windows form application which made with Visual Studio and **you need .NET 6.0**
 
-Then, I'm beginner of programing and not good English speaker.
+Please use this at your own lisk. Then, I'm beginner of programing and not good English speaker.
 
 So, when you notice the bug, not good English or anything, please let me it on twitter(@2iStudio048)
