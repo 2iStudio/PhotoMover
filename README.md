@@ -24,14 +24,17 @@ NovelAIをはじめとする画像生成AIで作られた大量の画像を選�
 そういったバグの報告やコードの改善案など、お気づきのことがございましたらtwitter(@2iStudio048)までお知らせいただけますと幸いです。
 
 ---
+
+<br>
+
 ---
 About PhotoMover
 
-This is a software for sort out images which made with NovelAI, StableDiffusion or some deep learning illustrator.
+This is a software for sort out a lot of images which made with NovelAI, StableDiffusion or some deep learning illustrator.
 
 It's especialy useful if you want change the folder to send the each image.
 
-You can use this not only images but also other files.
+You can use this not only images but also other type files.
 
 ---
 
@@ -44,4 +47,4 @@ This software is windows form application which made with Visual Studio and **yo
 
 Then, I'm beginner of programing and not good English speaker.
 
-So, when you notice the bug, not good english or anything, please let me it on twitter(@2iStudio048)
+So, when you notice the bug, not good English or anything, please let me it on twitter(@2iStudio048)
