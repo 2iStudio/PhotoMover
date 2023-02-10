@@ -43,8 +43,9 @@ Please read "HowToUse.pdf" to learn about how to use this.
 ---
 
 *CAUTION*
+
 This software is windows form application which made with Visual Studio and **you need .NET 6.0**
 
 Please use this at your own lisk. Then, I'm beginner of programing and not good English speaker.
 
-So, when you notice the bug, not good English or anything, please let me it on twitter(@2iStudio048)
+So, when you notice the bug, English mistakes, or anything, please let me it on twitter(@2iStudio048)
