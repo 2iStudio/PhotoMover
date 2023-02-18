@@ -12,6 +12,11 @@
         },
         "runtime": {
           "PhotoMover.dll": {}
+        },
+        "resources": {
+          "ja-JP/PhotoMover.resources.dll": {
+            "locale": "ja-JP"
+          }
         }
       },
       "Microsoft-WindowsAPICodePack-Core/1.1.4": {
