@@ -8,7 +8,9 @@
     ".NETCoreApp,Version=v6.0": {
       "PhotoMover/1.0.0": {
         "dependencies": {
-          "Microsoft-WindowsAPICodePack-Shell": "1.1.4"
+          "Microsoft-WindowsAPICodePack-Shell": "1.1.5",
+          "AxInterop.WMPLib": "1.0.0.0",
+          "Interop.WMPLib": "1.0.0.0"
         },
         "runtime": {
           "PhotoMover.dll": {}
@@ -19,22 +21,38 @@
           }
         }
       },
-      "Microsoft-WindowsAPICodePack-Core/1.1.4": {
+      "Microsoft-WindowsAPICodePack-Core/1.1.5": {
         "runtime": {
-          "lib/netcoreapp3.1/Microsoft.WindowsAPICodePack.dll": {
-            "assemblyVersion": "1.1.4.0",
-            "fileVersion": "1.1.4.0"
+          "lib/net6.0-windows7.0/Microsoft.WindowsAPICodePack.dll": {
+            "assemblyVersion": "1.1.5.0",
+            "fileVersion": "1.1.5.0"
           }
         }
       },
-      "Microsoft-WindowsAPICodePack-Shell/1.1.4": {
+      "Microsoft-WindowsAPICodePack-Shell/1.1.5": {
         "dependencies": {
-          "Microsoft-WindowsAPICodePack-Core": "1.1.4"
+          "Microsoft-WindowsAPICodePack-Core": "1.1.5"
         },
         "runtime": {
-          "lib/netcoreapp3.1/Microsoft.WindowsAPICodePack.Shell.dll": {
-            "assemblyVersion": "1.1.4.0",
-            "fileVersion": "1.1.4.0"
+          "lib/net6.0-windows7.0/Microsoft.WindowsAPICodePack.Shell.dll": {
+            "assemblyVersion": "1.1.5.0",
+            "fileVersion": "1.1.5.0"
+          }
+        }
+      },
+      "AxInterop.WMPLib/1.0.0.0": {
+        "runtime": {
+          "AxInterop.WMPLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Interop.WMPLib/1.0.0.0": {
+        "runtime": {
+          "Interop.WMPLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       }
@@ -46,19 +64,29 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Microsoft-WindowsAPICodePack-Core/1.1.4": {
+    "Microsoft-WindowsAPICodePack-Core/1.1.5": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-gsEStalyKPTR5/HKyAHYvIoDZTGUTUgIBS1eeGvkjWgDYB7f5aSBFAAJfxhhDsOGDjLs6O0uzw1H0EWYWZGDmg==",
-      "path": "microsoft-windowsapicodepack-core/1.1.4",
-      "hashPath": "microsoft-windowsapicodepack-core.1.1.4.nupkg.sha512"
+      "sha512": "sha512-3feeT5wxrH/T4YmoZwCglVrUw6aS4+WJLA3FRADLVT2J85/zjptrCikvGNcLI1+gDeoI1AZ4w45gF2FvBv6eQw==",
+      "path": "microsoft-windowsapicodepack-core/1.1.5",
+      "hashPath": "microsoft-windowsapicodepack-core.1.1.5.nupkg.sha512"
     },
-    "Microsoft-WindowsAPICodePack-Shell/1.1.4": {
+    "Microsoft-WindowsAPICodePack-Shell/1.1.5": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-EtoEx9Fx3ZGW//sni9TB1vuBvzXIlyG8E2KNaX7bqV240aiU8RP+NmDHd1ox0YKbJDMxq7AWSI2jPhpLMYXKyw==",
-      "path": "microsoft-windowsapicodepack-shell/1.1.4",
-      "hashPath": "microsoft-windowsapicodepack-shell.1.1.4.nupkg.sha512"
+      "sha512": "sha512-lZ+oIxvTp1Ph0YrzFl3AKcrry7OCfi0awf43nrGwodWqDlFASktZ+pN532rbU/5o09irYjxVu1m3UxO5L1H8fw==",
+      "path": "microsoft-windowsapicodepack-shell/1.1.5",
+      "hashPath": "microsoft-windowsapicodepack-shell.1.1.5.nupkg.sha512"
+    },
+    "AxInterop.WMPLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.WMPLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
